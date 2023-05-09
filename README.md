@@ -1,4 +1,15 @@
-## Bem-vindo(a) ao perfil meu Perfil 😁
+# Hello there! I'm João Faccin. :wave:	
+
+## 💻 About me:
+
+❤️	Passionate about technology and innovation.
+
+📖  I love researching, and reading other people's articles and code.
+
+👨‍💻  Putting my skills into practice with personal projects.
+
+
+</br>
 
   <a href="https://github.com/joaofaccin">
    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaofaccin&&show_icons=true&theme=aura&include_all_commits=true"/>
