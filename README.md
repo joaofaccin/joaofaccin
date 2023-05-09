@@ -1,7 +1,9 @@
 ## Bem-vindo(a) ao perfil meu Perfil 😁
 
  <div>
- 
+ <img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=redolfosei&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=RedolF+Osei's+GitHub+Stats&show_icons=true"
+/>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaofaccin&theme=react&line_height=40&hide=css"/>
    <img height="180em" src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=joaofaccin&layout=compact&langs_count=6&theme=tokyonight"/>
 
