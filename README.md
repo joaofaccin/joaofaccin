@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil meu Perfil 😁
 
   <a href="https://github.com/joaofaccin">
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaofaccin&&show_icons=true&theme=aura&include_all_commits=true"/>
+   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaofaccin&&show_icons=true&theme=aura&include_all_commits=true"/>
    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaofaccin&layout=compact&langs_count=7&theme=aura"/>
   </a>
 </div>
