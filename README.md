@@ -1,12 +1,9 @@
 ## Bem-vindo(a) ao perfil meu Perfil 😁
 
- <div>
- <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=redolfosei&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=RedolF+Osei's+GitHub+Stats&show_icons=true"
-/>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaofaccin&theme=react&line_height=40&hide=css"/>
-   <img height="180em" src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=joaofaccin&layout=compact&langs_count=6&theme=tokyonight"/>
-
+  <a href="https://github.com/joaofaccin">
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaofaccin&&show_icons=true&theme=aura&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaofaccin&layout=compact&langs_count=7&theme=aura"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
