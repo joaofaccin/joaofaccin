@@ -8,6 +8,11 @@ Sobre mim:
 
 👨‍💻 Colocar minhas habilidades em prática com projetos pessoais.
 
+ ## Meu site Portifolio
+ 
+<img width="150" src="https://github.com/joaofaccin/joaofaccin/assets/70918083/65c38120-3eee-4969-9d58-c2dd5cf0b0c5)">
+
+</br>
 </br>
 
   <a href="https://github.com/joaofaccin">
