@@ -10,7 +10,7 @@ Sobre mim:
 
  ## Meu site Portifolio
  
-<img width="150" src="https://github.com/joaofaccin/joaofaccin/assets/70918083/65c38120-3eee-4969-9d58-c2dd5cf0b0c5)">
+
 
 </br>
 </br>
@@ -42,7 +42,8 @@ Sobre mim:
   <a href= "https://www.instagram.com/jaumfaccin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href= ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/joao-vitor-b189b1239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= "https://www.linkedin.com/in/joao-vitor-b189b1239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href= "https://devruivo.web.app/" target="_blank"><img src="https://img.shields.io/badge/Dev--Ruivo-orange?style=for-the-badge" target="_blank"></a>
  
   ![Snake animation](https://github.com/joaofaccin/joaofaccin/blob/output/github-contribution-grid-snake.svg)
 
