@@ -70,7 +70,8 @@
 - 🌐 Desenvolvimento de PWAs e aplicações offline-first  
 - 🗄️ Modelagem de dados com MySQL e PostgreSQL  
 - 🐳 Conteinerização de aplicações com Docker e ambientes com Docker Compose  
-- 🧱 Aplicação de padrões como Clean Architecture e boas práticas de organização de código  
+- 🧱 Aplicação de Clean Architecture, princípios SOLID e boas práticas de desenvolvimento  
+- 🐧 Experiência com Linux (Ubuntu) para desenvolvimento e gerenciamento de ambientes  
 - ☁️ Experiência com Firebase, Cloudflare e arquitetura em nuvem  
 - 🚀 Focado em performance, boas práticas e evolução contínua  
 
