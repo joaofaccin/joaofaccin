@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
