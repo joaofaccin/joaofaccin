@@ -84,7 +84,7 @@
 - 🔙 Backend com C# (.NET), criação de APIs e aplicações com ASP.NET MVC e Blazor  
 - 📱 Desenvolvimento mobile com React Native e .NET MAUI  
 - 🌐 Desenvolvimento de PWAs e aplicações offline-first  
-- 🗄️ Modelagem de dados com MySQL e PostgreSQL  
+- 🗄️  Conheçimento de Banco de Dados com MySQL, PostgreSQL e SqlServer  
 - 🐳 Conteinerização de aplicações com Docker e ambientes com Docker Compose  
 - 🧱 Aplicação de Clean Architecture, princípios SOLID e boas práticas de desenvolvimento  
 - 🐧 Experiência com Linux (Ubuntu) para desenvolvimento e gerenciamento de ambientes  
