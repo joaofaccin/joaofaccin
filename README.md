@@ -45,6 +45,7 @@
 <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 <img alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
 <img alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg">
+<img alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
 
 </div>
 
@@ -72,40 +73,5 @@
 
 ---
 
-## 💡 Sobre mim
-
-### 🖥️ Frontend
-<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> React, React Native, JavaScript/TypeScript  
-<img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"> Angular
-
-### 🔙 Backend
-<img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> C# (.NET), APIs, ASP.NET MVC, Blazor  
-<img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> NodeJS
-
-### 📱 Mobile
-<img align="center" alt="ReactNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> React Native, .NET MAUI
-
-### 🌐 Web Avançado / PWAs
-<img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> PWAs, aplicações offline-first
-
-### 🗄️ Banco de Dados
-<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> MySQL  
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> PostgreSQL  
-<img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"> SQL Server
-
-### 🐳 DevOps & Containers
-<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> Docker, Docker Compose  
-<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git
-
-### 🧱 Arquitetura
-<img align="center" alt="CleanArchitecture" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2580/2580838.png"> Clean Architecture, SOLID, boas práticas
-
-### 🐧 Linux
-<img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"> Ubuntu, gerenciamento de ambientes
-
-### ☁️ Cloud & Serviços
-<img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> Firebase, Cloudflare, arquitetura em nuvem
-
----
 
 🚀 Em constante evolução, buscando aprimorar habilidades técnicas e acompanhar novas tecnologias
