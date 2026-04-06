@@ -73,8 +73,8 @@
 - 🧱 Aplicação de Clean Architecture, princípios SOLID e boas práticas de desenvolvimento  
 - 🐧 Experiência com Linux (Ubuntu) para desenvolvimento e gerenciamento de ambientes  
 - ☁️ Experiência com Firebase, Cloudflare e arquitetura em nuvem  
-- 🚀 Focado em performance, boas práticas e evolução contínua  
+- 💥 Focado em performance, boas práticas e evolução contínua  
 
 ---
 
-⭐ *Sempre buscando evoluir e construir coisas incríveis!*
+🚀 Em constante evolução, buscando aprimorar habilidades técnicas e acompanhar novas tecnologias
