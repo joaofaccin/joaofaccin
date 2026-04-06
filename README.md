@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou João Faccin
 
-💻 Desenvolvedor apaixonado por tecnologia 
-⚡ Transformando conhecimento em prática 
+💻 Desenvolvedor apaixonado por tecnologia  
+⚡ Transformando conhecimento em prática  
 📚 Sempre aprendendo e explorando novas ferramentas
 
 ---
@@ -71,6 +71,5 @@
 </div>
 
 ---
-
 
 Em constante evolução, buscando aprimorar habilidades técnicas e acompanhar novas tecnologias
