@@ -9,10 +9,9 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaofaccin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaofaccin&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaofaccin&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaofaccin&layout=compact&theme=tokyonight"/>
 </div>
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -65,10 +64,16 @@
 
 ## 💡 Sobre mim
 
-- 🔥 Foco em desenvolvimento Web e aplicações modernas  
-- ⚙️ Experiência com React, Node.js e C#  
-- 📱 Interesse em PWA e aplicações offline  
-- ☁️ Explorando AWS e arquitetura de sistemas  
+- 💻 Desenvolvedor Full Stack focado em aplicações Web modernas, performáticas e escaláveis  
+- ⚛️ Experiência com React, React Native e ecossistema JavaScript  
+- 🔙 Backend com C# (.NET), criação de APIs e aplicações com ASP.NET MVC e Blazor  
+- 📱 Desenvolvimento mobile com React Native e .NET MAUI  
+- 🌐 Desenvolvimento de PWAs e aplicações offline-first  
+- 🗄️ Modelagem de dados com MySQL e PostgreSQL  
+- 🐳 Conteinerização de aplicações com Docker e ambientes com Docker Compose  
+- 🧱 Aplicação de padrões como Clean Architecture e boas práticas de organização de código  
+- ☁️ Experiência com Firebase, Cloudflare e arquitetura em nuvem  
+- 🚀 Focado em performance, boas práticas e evolução contínua  
 
 ---
 
