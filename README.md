@@ -79,18 +79,6 @@
 
 ## 💡 Sobre mim
 
-- 💻 Desenvolvedor Full Stack focado em aplicações Web modernas, performáticas e escaláveis  
-- ⚛️ Experiência com React, React Native e ecossistema JavaScript  
-- 🔙 Backend com C# (.NET), criação de APIs e aplicações com ASP.NET MVC e Blazor  
-- 📱 Desenvolvimento mobile com React Native e .NET MAUI  
-- 🌐 Desenvolvimento de PWAs e aplicações offline-first  
-- 🗄️  Conheçimento de Banco de Dados com MySQL, PostgreSQL e SqlServer  
-- 🐳 Conteinerização de aplicações com Docker e ambientes com Docker Compose  
-- 🧱 Aplicação de Clean Architecture, princípios SOLID e boas práticas de desenvolvimento  
-- 🐧 Experiência com Linux (Ubuntu) para desenvolvimento e gerenciamento de ambientes  
-- ☁️ Experiência com Firebase, Cloudflare e arquitetura em nuvem  
-- 💥 Focado em performance, boas práticas e evolução contínua  
-
----
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <!-- Full Stack --> <img align="center" alt="FullStack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-original.svg"> 💻 **Full Stack Developer** – Aplicações web modernas e escaláveis <!-- Frontend --> <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> ⚛️ **Frontend** – React, React Native, JavaScript/TypeScript <!-- Backend --> <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 🔙 **Backend** – C# (.NET), APIs, ASP.NET MVC e Blazor <!-- Mobile --> <img align="center" alt="ReactNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 📱 **Mobile** – React Native, .NET MAUI <!-- Web Avançado / PWAs --> <img align="center" alt="PWA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 🌐 **Web avançado** – PWAs, aplicações offline-first <!-- Banco de Dados --> <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"> 🗄️ **Banco de Dados** – MySQL, PostgreSQL, SQL Server <!-- Docker / DevOps --> <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 🐳 **DevOps & Containers** – Docker, Docker Compose <!-- Arquitetura --> <img align="center" alt="CleanArchitecture" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2580/2580838.png"> 🧱 **Arquitetura** – Clean Architecture, SOLID, boas práticas <!-- Linux --> <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"> 🐧 **Linux** – Ubuntu, desenvolvimento e gerenciamento de ambientes <!-- Cloud --> <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> ☁️ **Cloud & Serviços** – Firebase, Cloudflare, arquitetura em nuvem </div>
 
 🚀 Em constante evolução, buscando aprimorar habilidades técnicas e acompanhar novas tecnologias
