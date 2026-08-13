@@ -6,15 +6,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-joaofaccin.vercel.app/api?username=joaofaccin&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats-joaofaccin.vercel.app/api/top-langs/?username=joaofaccin&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🚀 Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
