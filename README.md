@@ -9,8 +9,8 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaofaccin&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaofaccin&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-joaofaccin.vercel.app/api?username=joaofaccin&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-joaofaccin.vercel.app/api/top-langs/?username=joaofaccin&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
